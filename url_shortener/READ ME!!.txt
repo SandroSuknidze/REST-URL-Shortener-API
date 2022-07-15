@@ -1,0 +1,1 @@
+database locates in core directory (shorty.db)
